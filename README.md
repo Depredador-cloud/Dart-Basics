@@ -1,8 +1,6 @@
 # Dart-Basics
 
-Here is a detailed guide on using Dart, including the basics and more advanced topics, structured in Markdown format for your GitHub repository:
 
-```markdown
 # Dart Guide
 
 ## Introduction to Dart
